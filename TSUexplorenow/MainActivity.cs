@@ -11,7 +11,7 @@ namespace TSUexplorenow
         {
             base.OnCreate(savedInstanceState);
 
-            // Set our view from the "main" layout resource
+            // Set our view from the "main" layout resource 1
             SetContentView(Resource.Layout.Main);
         }
     }
